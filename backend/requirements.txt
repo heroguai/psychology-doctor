@@ -7,8 +7,8 @@ python-dotenv==1.0.1
 httpx==0.27.2
 
 # 数据验证
-pydantic==2.9.2
-pydantic-settings==2.6.0
+pydantic>=2.9.2
+pydantic-settings>=2.6.0
 
 # CORS 支持
 python-multipart==0.0.12
